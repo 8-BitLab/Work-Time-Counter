@@ -6,16 +6,16 @@ Built with C# and Windows Forms (.NET Framework 4.7.2).
 
 ## Features
 
-- **Start / Stop / Pause** — one-click work timer with live elapsed time display
-- **Firebase Sync** — real-time data synchronization across devices using Firebase Realtime Database
-- **Local Storage** — offline-first with LiteDB embedded database, syncs when connected
-- **Online Users** — see who is currently working with live heartbeat/presence indicators
-- **Live Logging** — real-time work session signals visible to the team
-- **Reports** — daily and monthly work time summaries with data grid view
-- **PDF Export** — generate printable work time reports via iTextSharp
-- **Dark / Light Theme** — switchable UI theme
-- **Auto-Update** — built-in version checker to keep the app up to date
-- **Debug Console** — dedicated debug form for diagnostics
+- **Start / Stop / Pause** -- one-click work timer with live elapsed time display
+- **Firebase Sync** -- real-time data synchronization across devices using Firebase Realtime Database
+- **Local Storage** -- offline-first with LiteDB embedded database, syncs when connected
+- **Online Users** -- see who is currently working with live heartbeat/presence indicators
+- **Live Logging** -- real-time work session signals visible to the team
+- **Reports** -- daily and monthly work time summaries with data grid view
+- **PDF Export** -- generate printable work time reports via iTextSharp
+- **Dark / Light Theme** -- switchable UI theme
+- **Auto-Update** -- built-in version checker to keep the app up to date
+- **Debug Console** -- dedicated debug form for diagnostics
 
 ## Tech Stack
 
@@ -58,7 +58,7 @@ Get the latest release from the [Releases](https://github.com/8-BitLab/Work-Time
 Work-Time-Counter/
   Work Time Counter/
     Program.cs              # Application entry point
-    Form1.cs                # Main form — timer, logging, Firebase sync, reports
+    Form1.cs                # Main form -- timer, logging, Firebase sync, reports
     DebugForm.cs            # Debug/diagnostics window
     App.config              # Application configuration
     packages.config         # NuGet dependencies
@@ -71,4 +71,5 @@ This project is part of the [8-Bit Lab Engineering](https://8bitlab.de) open sou
 
 ## Author
 
-**8-Bit Lab Engineering** — [8bitlab.de](https://8bitlab.de)
+**Blagoy Georgiev** -- Engineer at [8-Bit Lab Engineering](https://8bitlab.de)
+
