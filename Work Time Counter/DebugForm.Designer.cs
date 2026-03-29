@@ -1,4 +1,4 @@
-﻿namespace Work_Time_Counter
+namespace Work_Time_Counter
 {
     partial class DebugForm
     {
